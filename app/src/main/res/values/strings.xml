@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JobSchedulerTest</string>
+    <string name="title_activity_main">JobSchedulerTest</string>
 </resources>
